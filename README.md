@@ -2,7 +2,7 @@
 Déploiement d'une Application Web sur AWS
 
 
-#Scénario
+# Scénario
 Une startup technologique souhaite déployer une application web haute
 disponibilité pour ses utilisateurs. Ils ont besoin d'une infrastructure scalable qui
 puisse gérer le trafic élevé sans interruption de service.
